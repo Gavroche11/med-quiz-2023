@@ -1,6 +1,6 @@
 # med-quiz-2023
 
-These commands have been tested on Windows. They have not been tested on Linux or Mac.
+These commands have been tested on Windows. They may not work on Linux or Mac.
 
 Make sure you have installed conda.
 
