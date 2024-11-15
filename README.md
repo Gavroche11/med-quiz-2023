@@ -1,5 +1,7 @@
 # med-quiz-2023
 
+These commands have been tested on Windows. They have not been tested on Linux or Mac.
+
 Make sure you have installed conda.
 
 1. `git clone https://github.com/Gavroche11/med-quiz-2023.git`
@@ -8,7 +10,7 @@ Make sure you have installed conda.
 
 3. `conda env create --file environment.yaml`
 
-4. `conda activate quiz`
+4. `conda activate med-quiz-2023`
 
 5. `cd parasite-quiz` or `cd microbiology-quiz`
 
