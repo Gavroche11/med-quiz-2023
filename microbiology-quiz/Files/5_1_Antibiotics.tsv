@@ -1,0 +1,17 @@
+Question	Answer	Statement	RemarkQ	RemarkA
+Penicillins	Bind to PBP
+Cephalosporins	Bind to PBP
+Aminoglycosides	Inhibit 30S (misreading of mRNA)
+Streptomycin	Inhibit 30S (misreading of mRNA)
+Tetracyclines	Inhibit 30S (block aminoacyl tRNA binding to 30S-mRNA cpx)
+Chloramphenicol	Inhibit 50S (block peptidyl transferase)
+Macrolides	Inhibit 50S (block peptidyl transferase)
+Erythromycin	Inhibit 50S (block peptidyl transferase)
+Oreandomycin	Inhibit 50S (block peptidyl transferase)
+Lincomycin	Inhibit 50S (block peptidyl transferase)
+Clindamycin	Inhibit 50S (block peptidyl transferase)		compete w/ chloramphenicol
+Quinolones	Inhibit DNA gyrase
+Rifampicin	Inhibit DNA-dependent RNA polymerase		TB, leprosy, N. meningitidis; very high rate of resistance
+Polymyxin B	Injury to plasma membrane		Only bactericidal for G(-)
+Sulfonamide	Inhibit folic acid synthesis
+Trimethoprim	Inhibit folic acid synthesis

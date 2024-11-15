@@ -1,0 +1,20 @@
+Question	Answer	Statement	RemarkQ	RemarkA
+Brucellosis	Bacterial direct zoonosis		Contact; from cow
+Anthrax	Bacterial direct zoonosis		Air-borne; B. anthracis
+HUS	Bacterial direct zoonosis		Food-borne; EHEC
+Plague	Bacterial meta zoonosis 		Flea; Y. pestis
+Tetanus	Bacterial sapro zoonosis		Soil; C. tetani
+Leptospirosis	Bacterial sapro zoonosis		Urine; L. interrogans; urine
+Ebola	Viral direct zoonosis		Contact
+Rabies	Viral direct zoonosis		Bite
+Avian influenza	Viral direct zoonosis		Air-borne
+Swine influenza	Viral direct zoonosis		Air-borne
+SARS	Viral direct zoonosis		Air-borne; SARS-CoV
+MERS	Viral direct zoonosis		Air-borne; MERS-CoV
+COVID-19	Viral direct zoonosis		Air-borne; SARS-CoV-2
+HFRS	Viral direct zoonosis		Air-borne; hantavirus; from rodents
+West Nile fever	Viral meta zoonosis		Human as a dead-end host
+Yellow fever	Viral meta zoonosis		Human-human transmission possible
+Dengue fever	Viral meta zoonosis		Human-human transmission possible
+Zika	Viral meta zoonosis		Human-human transmission possible
+Japanese encephalitis	Viral meta zoonosis		Vertical transmission in arthropods

@@ -1,0 +1,22 @@
+Answer	Question	Statement	RemarkA	RemarkQ
+CCR5 antagonist	Inhibit attachment		HIV
+Enfuvirtide	Inhibit viral fusion protein gp41
+Amantadine	Inhibit virion uncoating by blocking proton channel		Influenza A, not B
+Rimantadine	Inhibit virion uncoating by blocking proton channel		Influenza A, not B
+Arildone	Inhibit virion uncoating of picornaviruses
+Acyclovir	Activated by thymidine kinase, terminate DNA elongation		HSV, VZV, (EBV)
+Ganciclovir	Activated by thymidine kinase, terminate DNA elongation		CMV
+Phosphonoformic acid	Pyrophophosphate analog; inhibit DNA polymerase		Herpesvirus
+Ribavirin	Guanosine analog; inhibit mRNA synthesis by preventing methylation of 5'-cap		RSV (aerosol)
+Azidothymidine	Nucleoside; inhibit reverse transcriptase		HIV
+Nevirapine	Non-nucleoside; inhibit reverse transcriptase		HIV
+Efavirenz	Non-nucleoside; inhibit reverse transcriptase		HIV
+Type I IFNs	Inhibit protein synthesis		PKR, 2,5-oligo A synthetase, Mx GTPase
+Saquinavir	Inhibit viral protease		HIV
+Zanamivir	Inhibit neuraminidase		Nasal spray; influenza A and B
+Oseltamivir	Inhibit neuraminidase		Oral; influenza A and B
+Dexamehtasone	Inhibit inhibitory cytokines and neutrophil infiltration		SARS-CoV-2
+Bamlanivimab	mAb against the spike protein of SARS-CoV-2
+Tocilizumab	mAb against IL-6
+Remdesivir	Ribonucleotide analog inhibitor of viral RDRP		SARS-CoV-2
+Baricitinib	Inhibit JAK signaling combined w/ remdesivir		SARS-CoV-2
